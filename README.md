@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kamechan98
-- 👀 I’m interested in reading
-- 🌱 I’m currently learning HTML, CSS and Javsscript
+- 👀 I’m interested in 
+- 🌱 I’m currently learning HTML, CSS and Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
